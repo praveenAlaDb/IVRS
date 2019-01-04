@@ -1,2 +1,3 @@
-press 1 for sales
-press 2 for support
+press 1 for scheduling interview
+press 2 for to talk to HR
+press 3 for repeating the menu
